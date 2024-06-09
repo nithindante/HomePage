@@ -225,3 +225,9 @@ input[type='submit']{
 input[type='submit']:hover{
     box-shadow: 5px 5px 5px grey;  
 }
+
+.footerDiv{
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
